@@ -1,4 +1,4 @@
-# curlloader
+# curl-loader
 The performance test：curl-loader
 
 curl-loader0.56
